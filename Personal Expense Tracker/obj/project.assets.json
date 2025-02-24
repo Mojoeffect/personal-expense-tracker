@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TecHERdemy2024\\Personal Expense Tracker\\Personal Expense Tracker\\Personal Expense Tracker.csproj",
+      "projectUniqueName": "C:\\Techerdemy\\Personal Expense Tracker\\Personal Expense Tracker\\Personal Expense Tracker.csproj",
       "projectName": "Personal Expense Tracker",
-      "projectPath": "C:\\TecHERdemy2024\\Personal Expense Tracker\\Personal Expense Tracker\\Personal Expense Tracker.csproj",
+      "projectPath": "C:\\Techerdemy\\Personal Expense Tracker\\Personal Expense Tracker\\Personal Expense Tracker.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\TecHERdemy2024\\Personal Expense Tracker\\Personal Expense Tracker\\obj\\",
+      "outputPath": "C:\\Techerdemy\\Personal Expense Tracker\\Personal Expense Tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
