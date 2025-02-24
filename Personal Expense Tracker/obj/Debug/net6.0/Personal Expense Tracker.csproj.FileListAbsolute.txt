@@ -1,0 +1,15 @@
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.csproj.AssemblyReference.cache
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.AssemblyInfoInputs.cache
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.AssemblyInfo.cs
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.csproj.CoreCompileInputs.cache
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0\Personal Expense Tracker.exe
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0\Personal Expense Tracker.deps.json
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0\Personal Expense Tracker.runtimeconfig.json
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0\Personal Expense Tracker.dll
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0\Personal Expense Tracker.pdb
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.dll
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\refint\Personal Expense Tracker.dll
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.pdb
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.genruntimeconfig.cache
+C:\TecHERdemy2024\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\ref\Personal Expense Tracker.dll
