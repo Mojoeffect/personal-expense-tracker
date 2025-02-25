@@ -7,7 +7,7 @@
     }
     public class Expense
     {
-        public string Expenditure { get; set; } //name of the expense
+        public string? Expenditure { get; set; } //name of the expense
         public int[] Date { get; set; } //date is stored as day, month, and year in an array. (Update to Datetype when familiar)
         public double Amount { get; set; } //cost of expense
         public int ExpenditureNumber {get; set;} //will serve as Primary Key for each expense
@@ -109,7 +109,7 @@
 
 
         //To view expenees
-        public static void ViewExpenses()
+        public static void ViewExpense()
         {
             Console.WriteLine("Enter: ");
             Console.WriteLine("1. To view All expenses"); 
@@ -179,7 +179,7 @@
                 default:
                     {
                         Console.WriteLine("Invalid Entry!");
-                        ViewExpenses();
+                        ViewExpense();
                         break;
                     }
             }
@@ -306,7 +306,7 @@
                 {
                     case 1:
                         Console.WriteLine("\n");
-                        ViewExpenses();
+                        ViewExpense();
                         break;
                     case 2:
                         break;
@@ -320,7 +320,7 @@
         public static void UpdateExpense()
         {
             Console.WriteLine("Before updating any expense, kindly view the expense(s) either by expenditure name or date to confirm the expense number");
-            ViewExpenses();
+            ViewExpense();
 
             Console.Write("\nExpenditure number: ");
             int number = int.Parse(Console.ReadLine());
@@ -436,7 +436,7 @@
         public static void DeleteExpense()
         {
             Console.WriteLine("Before deleting any expense, kindly view the expense(s) either by expenditure name or date to confirm the expense number");
-            ViewExpenses();
+            ViewExpense();
 
             Console.Write("Enter expenditure number: ");
             int number = int.Parse(Console.ReadLine());

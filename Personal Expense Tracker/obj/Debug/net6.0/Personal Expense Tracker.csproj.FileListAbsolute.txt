@@ -18,7 +18,6 @@ C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0\Personal Expense Tracker.runtimeconfig.json
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0\Personal Expense Tracker.dll
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\bin\Debug\net6.0\Personal Expense Tracker.pdb
-C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.csproj.AssemblyReference.cache
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.AssemblyInfoInputs.cache
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.AssemblyInfo.cs
@@ -28,3 +27,4 @@ C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.pdb
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.genruntimeconfig.cache
 C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\ref\Personal Expense Tracker.dll
+C:\Techerdemy\Personal Expense Tracker\Personal Expense Tracker\obj\Debug\net6.0\Personal Expense Tracker.sourcelink.json

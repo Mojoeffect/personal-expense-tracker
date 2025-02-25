@@ -29,7 +29,7 @@ class Program
                     AddExpense();
                     break;
                 case 2:
-                    ViewExpenses();
+                    ViewExpense();
                     break;
                 case 3:
                     UpdateExpense();
