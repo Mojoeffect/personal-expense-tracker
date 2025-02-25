@@ -14,6 +14,14 @@
 
         static List<Expense> expenses = new List<Expense>();
 
+        public Expense(string? expenditure, int[] date, double amount, int expenditureNumber)
+        {
+            Expenditure = expenditure;
+            Date = date;
+            Amount = amount;
+            ExpenditureNumber = expenditureNumber;
+        }
+
 
         //Takes a date input in string format, converts it to an array. 
         public static int[] DateArray(string dateInput) 
@@ -77,7 +85,7 @@
                     Console.Write("Enter Amount: "); //prompts user for expenditure amount
                     amount = double.Parse(Console.ReadLine());
 
-                    expenses.Add(new Expense { ExpenditureNumber = expenditureNumber, Date = date, Expenditure = expenditure, Amount = amount } );
+                    expenses.Add(new Expense ( expenditure, date, amount, expenditureNumber) );
                     Console.WriteLine("Expense added!");
                     AddAgain(); 
                 }
