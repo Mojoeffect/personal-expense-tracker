@@ -14,6 +14,14 @@
 
         static List<Expense> expenses = new List<Expense>();
 
+        public Expense(int expenditureNumber, int[] date, string? expenditure, double amount)
+        {
+            expenditure = Expenditure;
+            date = Date;
+            amount = Amount;
+            expenditureNumber = ExpenditureNumber;
+        }
+
         //Takes a date input in string format, converts it to an array. 
         public static int[] DateArray(string dateInput) 
         {
@@ -51,7 +59,7 @@
         {
             string expenditure;
             double amount;
-            int expenseNumber;
+            int expenditureNumber;
 
             Console.Write("Enter Date ( format: DD-MM-YYYY ): "); //To prompt the user for the date of transaction
             string dateInput = Console.ReadLine();
@@ -60,9 +68,9 @@
             if (date.Length == 3 && (date[1] >=1 && date[1] <=12) )//checks if date and month is valid. (Check for month and day validity)
             {  
                 Console.Write("Enter Expenditure Number: "); //prompts user for expenditure number
-                expenseNumber = int.Parse(Console.ReadLine());
+                expenditureNumber = int.Parse(Console.ReadLine());
 
-                Expense checkExpenseNumber = expenses.Find(e => e.ExpenditureNumber == expenseNumber);//To ensure no two expenses have the same expenditure number
+                Expense checkExpenseNumber = expenses.Find(e => e.ExpenditureNumber == expenditureNumber);//To ensure no two expenses have the same expenditure number
                 if(checkExpenseNumber != null)
                 {
                     Console.WriteLine("Expenditure number is already assigned to different expense!");
@@ -76,7 +84,7 @@
                     Console.Write("Enter Amount: "); //prompts user for expenditure amount
                     amount = double.Parse(Console.ReadLine());
 
-                    expenses.Add(new Expense { Expenditure = expenditure, Amount = amount, ExpenditureNumber = expenseNumber, Date = date });
+                    expenses.Add(new Expense(expenditureNumber , date, expenditure, amount) );
                     Console.WriteLine("Expense added!");
                     AddAgain(); 
                 }
